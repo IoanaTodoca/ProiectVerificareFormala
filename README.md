@@ -1,10 +1,12 @@
-# ProiectVerificareFormala
+# Formal Verification Project
 
 MiniSat Project and report for the Formal Verification course
 
+**Team acitivitay table:**
+
 |   Week   | Ioana Todoca   | Iulia Modoaca | Miruna Sapca | Bogdan Jude|
 |----------|----------------|---------------|--------------|------------|
-| Week 10  | Updated README + added licence + redid biography in tex file |               |              |            |
+| Week 10  | Updated README + added licence + redid biography |               |              |            |
 | Week 11  |                |               |              |            |
 | Week 12  |                |               |              |            |
 | Week 13  |                |               |              |            |
