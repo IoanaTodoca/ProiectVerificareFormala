@@ -14,7 +14,7 @@ MiniSat Project and report for the Formal Verification course
 
 
 
-===========================================================================
+
 
 ## Quick Install MiniSat on Ubuntu through WSL
 
