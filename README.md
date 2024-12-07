@@ -4,7 +4,7 @@ MiniSat Project and report for the Formal Verification course
 
 |   Week   | Ioana Todoca   | Iulia Modoaca | Miruna Sapca | Bogdan Jude|
 |----------|----------------|---------------|--------------|------------|
-| Week 10  | Updated README |               |              |            |
+| Week 10  | Updated README + added licence + redid biography in tex file |               |              |            |
 | Week 11  |                |               |              |            |
 | Week 12  |                |               |              |            |
 | Week 13  |                |               |              |            |
@@ -14,18 +14,22 @@ MiniSat Project and report for the Formal Verification course
 
 ===========================================================================
 
-Quick install MiniSat on Ubuntu through WS
- 
--update system packages:
-    > sudo apt update
-    > sudo apt upgrade
+## Quick Install MiniSat on Ubuntu through WSL
 
--install MiniSat:
-    > sudo apt install minisat
+Follow these steps to quickly install MiniSat:
 
--check if MiniSat was installed successfully:
-    > minisat
+1. **Update system packages:**
+   ```bash
+   sudo apt update
+   sudo apt upgrade
 
+2.  **Install MiniSat:**
+    ```bash
+    sudo apt intall minisat
+
+3.  **Check if MiniSat was installed successfully:**
+    ```bash
+    minisat 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
