@@ -9,8 +9,8 @@ MiniSat Project and report for the Formal Verification course
 | Week 10  | Updated README + added licence + redid biography + created flow diagram |      Upload output files +edited LaTeX report         |              |            |
 | Week 11  |                |               |              |            |
 | Week 12  |                |               |              |            |
-| Week 13  |                |               |   Described the benchmark           |            |
-| Week 14  |                |               |    Compared the performances for both computers + theory into practice          |            |
+| Week 13  |                |       Described the benchmark         |             |            |
+| Week 14  |                |         Compared the performances for both computers + theory into practice       |             |            |
 
 
 
