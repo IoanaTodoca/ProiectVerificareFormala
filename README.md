@@ -6,11 +6,11 @@ MiniSat Project and report for the Formal Verification course
 
 |   Week   | Ioana Todoca   | Iulia Modoaca | Miruna Sapca | Bogdan Jude|
 |----------|----------------|---------------|--------------|------------|
-| Week 10  | Updated README + added licence + redid biography + created flow diagram |               |              |            |
+| Week 10  | Updated README + added licence + redid biography + created flow diagram |      Upload output files +edited LaTeX report         |              |            |
 | Week 11  |                |               |              |            |
 | Week 12  |                |               |              |            |
-| Week 13  |                |               |              |            |
-| Week 14  |                |               |              |            |
+| Week 13  |                |       Described the benchmark         |             |            |
+| Week 14  |                |         Compared the performances for both computers + theory into practice       |             |            |
 
 
 
